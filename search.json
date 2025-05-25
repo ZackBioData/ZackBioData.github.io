@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "log/index.html",
+    "href": "log/index.html",
+    "title": "🧪 Logbook",
+    "section": "",
+    "text": "A living record of bioinformatics experiments, RNA-seq analyses, and machine learning explorations.\n\n\n\n\n2025-05-23 — Prostate Cancer DEG (GSE6919) bulk RNA sequencing (microarray data)** from the GEO dataset GSE6919 to identify genes that are differentially expressed between cancerous and healthy prostate tissues. The analysis was performed using the limma package in R, which is well-suited for microarray-based differential expression workflows."
+  },
+  {
+    "objectID": "log/index.html#recent-entries",
+    "href": "log/index.html#recent-entries",
+    "title": "🧪 Logbook",
+    "section": "",
+    "text": "2025-05-23 — Prostate Cancer DEG (GSE6919) bulk RNA sequencing (microarray data)** from the GEO dataset GSE6919 to identify genes that are differentially expressed between cancerous and healthy prostate tissues. The analysis was performed using the limma package in R, which is well-suited for microarray-based differential expression workflows."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome",
+    "section": "",
+    "text": "Hey, I’m Zack\nI’m a biomedical science graduate learning bioinformatics and machine learning. This site is a record of my journey — logbook, blog.\n🔗 Logbook — Casual notes, ideas, and progress from daily work and study\n🔗 Blog — Occasional deeper dives into tools, projects, or topics I’m exploring\n\n\n\nWhat I’m Working On\n\nLearning Bulk RNA-seq and eventually single-cell RNA-seq\nStudying machine learning with Python and scikit-learn\n\nThanks for visiting!"
+  },
+  {
+    "objectID": "blog/2025-05-23_AI in Life Sciences.html",
+    "href": "blog/2025-05-23_AI in Life Sciences.html",
+    "title": "AI in Life Sciences: What’s Changing and What’s Holding Us Back",
+    "section": "",
+    "text": "This log summarizes key insights from the webinar Inside the Minds of Scientists: How AI is Changing Life Science Research, hosted by Bioinformatics in May 2025.\n🎥 Watch the webinar on Vimeo\n📊 Download the slide deck (PDF)"
+  },
+  {
+    "objectID": "blog/2025-05-23_AI in Life Sciences.html#about",
+    "href": "blog/2025-05-23_AI in Life Sciences.html#about",
+    "title": "AI in Life Sciences: What’s Changing and What’s Holding Us Back",
+    "section": "",
+    "text": "This log summarizes key insights from the webinar Inside the Minds of Scientists: How AI is Changing Life Science Research, hosted by Bioinformatics in May 2025.\n🎥 Watch the webinar on Vimeo\n📊 Download the slide deck (PDF)"
+  },
+  {
+    "objectID": "blog/2025-05-23_AI in Life Sciences.html#key-trends",
+    "href": "blog/2025-05-23_AI in Life Sciences.html#key-trends",
+    "title": "AI in Life Sciences: What’s Changing and What’s Holding Us Back",
+    "section": "🚀 Key Trends",
+    "text": "🚀 Key Trends\n\nAI is moving from discovery to development.\nAI appears to be shifting from predictions to decisions — Y Combinator is investing heavily in companies fully run by AI agents.\nPharma is integrating AI across more stages of R&D (e.g., target ID, trial design, decision-making)."
+  },
+  {
+    "objectID": "blog/2025-05-23_AI in Life Sciences.html#whats-holding-ai-back-in-biology",
+    "href": "blog/2025-05-23_AI in Life Sciences.html#whats-holding-ai-back-in-biology",
+    "title": "AI in Life Sciences: What’s Changing and What’s Holding Us Back",
+    "section": "🧱 What’s Holding AI Back in Biology?",
+    "text": "🧱 What’s Holding AI Back in Biology?\n\nCurrent issues with Ai in biosciences:\n\n\nReproducibility issues — hard to trust models without transparent workflows.\nLearning curve and training — lack of experience with AI was a significant pain point for many users.\n\n💬 This resonated with me. I’ve already seen how messy biological data can be, which leads to a steep learning curve and difficulty managing AI outputs."
+  },
+  {
+    "objectID": "blog/2025-05-23_AI in Life Sciences.html#changes-for-future-adoption",
+    "href": "blog/2025-05-23_AI in Life Sciences.html#changes-for-future-adoption",
+    "title": "AI in Life Sciences: What’s Changing and What’s Holding Us Back",
+    "section": "📘 Changes for future adoption",
+    "text": "📘 Changes for future adoption\n\nTransparency is important for scientists to adopt and understand AI tools — they need to know how and what models were trained with.\nTools need to be built with their actual users in mind — typically, biologists."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "🧠 Blog",
+    "section": "",
+    "text": "A collection of occasional deep dives into the tools, topics, and techniques I’m exploring in bioinformatics, cancer research, and AI.\n\n\n\n\n2025-05-22 — How AI is Changing Life Science Research"
+  },
+  {
+    "objectID": "blog/index.html#recent-posts",
+    "href": "blog/index.html#recent-posts",
+    "title": "🧠 Blog",
+    "section": "",
+    "text": "2025-05-22 — How AI is Changing Life Science Research"
+  },
+  {
+    "objectID": "log/2025-05-23_prostate-limma.html",
+    "href": "log/2025-05-23_prostate-limma.html",
+    "title": "Prostate Cancer DEG Analysis (GSE6919)",
+    "section": "",
+    "text": "In this analysis, I used bulk RNA sequencing (microarray data) from the public GEO dataset GSE6919 to investigate differences in gene expression between cancerous and healthy prostate tissues.\nThe aim was to identify differentially expressed genes (DEGs) that could point to disrupted biological processes in prostate cancer, especially with a view toward metabolic shifts or biomarker discovery."
+  },
+  {
+    "objectID": "log/2025-05-23_prostate-limma.html#project-summary",
+    "href": "log/2025-05-23_prostate-limma.html#project-summary",
+    "title": "Prostate Cancer DEG Analysis (GSE6919)",
+    "section": "",
+    "text": "In this analysis, I used bulk RNA sequencing (microarray data) from the public GEO dataset GSE6919 to investigate differences in gene expression between cancerous and healthy prostate tissues.\nThe aim was to identify differentially expressed genes (DEGs) that could point to disrupted biological processes in prostate cancer, especially with a view toward metabolic shifts or biomarker discovery."
+  },
+  {
+    "objectID": "log/2025-05-23_prostate-limma.html#methods-overview",
+    "href": "log/2025-05-23_prostate-limma.html#methods-overview",
+    "title": "Prostate Cancer DEG Analysis (GSE6919)",
+    "section": "🔧 Methods Overview",
+    "text": "🔧 Methods Overview\nThe analysis was performed in R using the following packages:\n\nGEOquery — to load expression and metadata\n\nlimma — for linear modeling of microarray data\n\ntidyverse — for data wrangling and exploration\n\nclusterProfiler, org.Hs.eg.db — for GO enrichment analysis\n\n\nKey steps:\n\nDownloaded GSE6919 and extracted the expression matrix\n\nCleaned and labeled metadata (e.g. tumor vs. normal)\n\nFit a linear model using limma and contrasted tumor vs. normal\n\nExtracted top upregulated and downregulated genes\n\nPerformed GO enrichment to interpret biological meaning"
+  },
+  {
+    "objectID": "log/2025-05-23_prostate-limma.html#differential-expression-results",
+    "href": "log/2025-05-23_prostate-limma.html#differential-expression-results",
+    "title": "Prostate Cancer DEG Analysis (GSE6919)",
+    "section": "📊 Differential Expression Results",
+    "text": "📊 Differential Expression Results\n\nVolcano Plot X axis is change in expression and y value is significance.\n\n\n\nVolcano plot showing DEGs in prostate cancer\n\n\nThis volcano plot shows the spread of differentially expressed genes between tumor and normal tissues. Genes with high log fold-change and low p-values are highlighted.\nThis version of the volcano plot contains unfiltered or duplicated gene symbols and extreme values resulted in alot of messy invalid data scewing graph scale and bad gene labels such as GAPDH.1 and ACTB.1."
+  },
+  {
+    "objectID": "log/2025-05-23_prostate-limma.html#go-enrichment-analysis",
+    "href": "log/2025-05-23_prostate-limma.html#go-enrichment-analysis",
+    "title": "Prostate Cancer DEG Analysis (GSE6919)",
+    "section": "📘 GO Enrichment Analysis",
+    "text": "📘 GO Enrichment Analysis\n\n🧪 Enriched Biological Processes\n\n\n\n\n\n\n\n\n\n\nGO ID\nBiological Process\nGene Ratio\nAdjusted P-value\nGene Count\n\n\n\n\nGO:0045765\nRegulation of angiogenesis\n11/88\n0.00111\n11\n\n\nGO:1901342\nRegulation of vasculature development\n11/88\n0.00111\n11\n\n\nGO:0002696\nPositive regulation of leukocyte activation\n10/88\n0.00572\n10\n\n\nGO:0050867\nPositive regulation of cell activation\n10/88\n0.00677\n10\n\n\nGO:0051251\nPositive regulation of lymphocyte activation\n9/88\n0.00902\n9\n\n\nGO:0045766\nPositive regulation of angiogenesis\n7/88\n0.00902\n7\n\n\nGO:1904018\nPositive regulation of vasculature development\n7/88\n0.00902\n7\n\n\nGO:0050878\nRegulation of body fluid levels\n9/88\n0.01740\n9\n\n\nGO:0045785\nPositive regulation of cell adhesion\n10/88\n0.02360\n10\n\n\nGO:0050870\nPositive regulation of T cell activation\n7/88\n0.04120\n7\n\n\n\n\n\n\n📊 GO Enrichment Bar Chart\n\n\n\nTop GO terms for prostate cancer DEGs\n\n\nThis bar chart shows the top GO Biological Process categories enriched in the DEGs. Angiogenesis, immune activation, and vasculature development were particularly prominent.\n\n\n\n🧬 Genes contributing to enriched biological processes\nRegulation of angiogenesis\nSTAB1, PAK4, NPR1, PRKD2, SASH1, WNK1\nRegulation of vasculature development\nSTAB1, PAK4, NPR1, PRKD2, SASH1, WNK1\nPositive regulation of angiogenesis\nPAK4, PRKD2, SASH1, WNK1, CD40, PDPK1\nPositive regulation of vasculature development\nPAK4, PRKD2, SASH1, WNK1, CD40, PDPK1"
+  },
+  {
+    "objectID": "log/2025-05-23_prostate-limma.html#lessons-learned-for-myself",
+    "href": "log/2025-05-23_prostate-limma.html#lessons-learned-for-myself",
+    "title": "Prostate Cancer DEG Analysis (GSE6919)",
+    "section": "🧾Lessons Learned for myself",
+    "text": "🧾Lessons Learned for myself\nPlots didn’t save → forgot ggsave(). Used ggsave(“figures/Volcanoplot.jpg”) and made sure the folder path was right.\nPlots didn’t render in site → wrong relative path. Switched to log/figures/ and renamed files cleanly.\nenrichplot::barplot() didn’t work → Just use barplot() without enrichplot:: prefix.\nPNG wouldn’t load → renamed .png and re-saved properly. Hosted on Imgur as backup.\nHad to clean probe → gene symbol mapping → mapIds() gave NAs. Filtered out before topTable / enrichment.\nSaved a bunch of useful code in .Rhistory — rescued a lot from there when I thought it was lost."
+  },
+  {
+    "objectID": "log/2025-05-23_prostate-limma.html#notes",
+    "href": "log/2025-05-23_prostate-limma.html#notes",
+    "title": "Prostate Cancer DEG Analysis (GSE6919)",
+    "section": "🧾 Notes",
+    "text": "🧾 Notes\nFull list of gene contribution regulation of angiogenesis STAB1, PAK4, NPR1, PRKD2, SASH1, WNK1, CD40, PDPK1, IL1B, PPP1R16B, HRG regulation of vasculature development\nSTAB1, PAK4, NPR1, PRKD2, SASH1, WNK1, CD40, PDPK1, IL1B, PPP1R16B, HRG positive regulation of angiogenesis PAK4, PRKD2, SASH1, WNK1, CD40, PDPK1, IL1B positive regulation of vasculature development\nPAK4, PRKD2, SASH1, WNK1, CD40, PDPK1, IL1B"
+  }
+]
