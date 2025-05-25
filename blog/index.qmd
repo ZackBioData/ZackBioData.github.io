@@ -1,0 +1,14 @@
+---
+title: "🧠 Blog"
+format: html
+---
+
+# What i will blog
+
+A collection of occasional deep dives into the tools, topics, and techniques I’m exploring in bioinformatics, cancer research, and AI.
+
+---
+
+## 📚 Recent Posts
+
+- [2025-05-22 — How AI is Changing Life Science Research](2025-05-23_AI in Life Sciences.qmd)

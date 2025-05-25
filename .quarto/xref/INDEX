@@ -1,0 +1,26 @@
+{
+  "about.qmd": {
+    "about.html": "bc64a834"
+  },
+  "blog/index.qmd": {
+    "index.html": "53b46f46"
+  },
+  "index.qmd": {
+    "index.html": "49cad45d"
+  },
+  "log/index.qmd": {
+    "index.html": "809972e2"
+  },
+  "blog/AI in Life Sciences.qmd": {
+    "AI in Life Sciences.html": "3a56fb45"
+  },
+  "log/2025-05-23_prostate_limma.qmd": {
+    "2025-05-23_prostate_limma.html": "981531a3"
+  },
+  "log/2025-05-23_prostate-limma.qmd": {
+    "2025-05-23_prostate-limma.html": "5f24af65"
+  },
+  "blog/2025-05-23_AI in Life Sciences.qmd": {
+    "2025-05-23_AI in Life Sciences.html": "a1f1f7cc"
+  }
+}

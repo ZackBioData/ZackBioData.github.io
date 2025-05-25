@@ -1,0 +1,20 @@
+---
+title: "Welcome"
+format: html
+---
+
+# Hey, I’m Zack 
+
+I’m a biomedical science graduate learning bioinformatics and machine learning. This site is a record of my journey — logbook, blog.
+
+🔗 **[Logbook](log/index.qmd)** — Casual notes, ideas, and progress from daily work and study  
+🔗 **[Blog](blog/index.qmd)** — Occasional deeper dives into tools, projects, or topics I’m exploring
+
+---
+
+# What I’m Working On
+
+- Learning Bulk RNA-seq and eventually single-cell RNA-seq
+- Studying machine learning with Python and scikit-learn
+
+Thanks for visiting!
