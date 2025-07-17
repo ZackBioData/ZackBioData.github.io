@@ -1,11 +1,9 @@
 ---
-title: "Welcome"
+title: ""
 format: html
 ---
 
-# Hey, I’m Zack 
-
-I’m a biomedical science graduate learning bioinformatics and machine learning. This site is a record of my journey — logbook, blog.
+# This website aims to be way to track progress and reinforce learning as i go
 
 🔗 **[Logbook](log/index.qmd)** — Casual notes, ideas, and progress from daily work and study  
 🔗 **[Blog](blog/index.qmd)** — Occasional deeper dives into tools, projects, or topics I’m exploring

@@ -1,15 +1,15 @@
 ---
-title: "🧪 Logbook"
+title: "🧪 Bioinformatics Logbook"
 format: html
 ---
 
-# 🧬 Bioinformatics Logbook
 
-A living record of bioinformatics experiments, RNA-seq analyses, and machine learning explorations.
+
+A logbook documenting my journey through bioinformatics.
 
 ---
 
 ## 📝 Recent Entries
 
 - [2025-05-23 — Prostate Cancer DEG (GSE6919)](2025-05-23_prostate-limma.qmd)
-bulk RNA sequencing (microarray data)** from the GEO dataset **GSE6919** to identify genes that are differentially expressed between **cancerous and healthy prostate tissues**. The analysis was performed using the `limma` package in R, which is well-suited for microarray-based differential expression workflows.
+bulk RNA sequencing **(microarray data)** from the GEO dataset **GSE6919** to identify genes that are differentially expressed between **cancerous and healthy prostate tissues**. The analysis was performed using the `limma` package in R.

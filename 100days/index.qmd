@@ -1,0 +1,15 @@
+---
+title: "100 Days of Code"
+format: html
+---
+
+## Description
+
+This section is part journal, part learning log. I’m using the **#100DaysOfCode** challenge to build consistent coding habits and sharpen my skills. Each entry will either be a quick write-up of what I’ve coded that day, or a summary of something I’ve read or practiced 
+ all with a focus on clean, professional documentation. Whether it’s a new project, debugging insight, or notes from a tutorial, this log is about steady progress and reflection.
+
+
+
+## 📚 Recent Posts
+
+- [2025-07-17 — Day 1](Day1.qmd)
