@@ -2,23 +2,93 @@
   {
     "objectID": "log/index.html",
     "href": "log/index.html",
-    "title": "🧪 Logbook",
+    "title": "🧪 Bioinformatics Logbook",
     "section": "",
-    "text": "A living record of bioinformatics experiments, RNA-seq analyses, and machine learning explorations.\n\n\n\n\n2025-05-23 — Prostate Cancer DEG (GSE6919) bulk RNA sequencing (microarray data)** from the GEO dataset GSE6919 to identify genes that are differentially expressed between cancerous and healthy prostate tissues. The analysis was performed using the limma package in R, which is well-suited for microarray-based differential expression workflows."
+    "text": "A logbook documenting my journey through bioinformatics."
   },
   {
     "objectID": "log/index.html#recent-entries",
     "href": "log/index.html#recent-entries",
-    "title": "🧪 Logbook",
-    "section": "",
-    "text": "2025-05-23 — Prostate Cancer DEG (GSE6919) bulk RNA sequencing (microarray data)** from the GEO dataset GSE6919 to identify genes that are differentially expressed between cancerous and healthy prostate tissues. The analysis was performed using the limma package in R, which is well-suited for microarray-based differential expression workflows."
+    "title": "🧪 Bioinformatics Logbook",
+    "section": "📝 Recent Entries",
+    "text": "📝 Recent Entries\n\n2025-05-23 — Prostate Cancer DEG (GSE6919) bulk RNA sequencing (microarray data) from the GEO dataset GSE6919 to identify genes that are differentially expressed between cancerous and healthy prostate tissues. The analysis was performed using the limma package in R."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Welcome",
+    "title": "This website aims to be way to track progress and reinforce learning as i go",
     "section": "",
-    "text": "Hey, I’m Zack\nI’m a biomedical science graduate learning bioinformatics and machine learning. This site is a record of my journey — logbook, blog.\n🔗 Logbook — Casual notes, ideas, and progress from daily work and study\n🔗 Blog — Occasional deeper dives into tools, projects, or topics I’m exploring\n\n\n\nWhat I’m Working On\n\nLearning Bulk RNA-seq and eventually single-cell RNA-seq\nStudying machine learning with Python and scikit-learn\n\nThanks for visiting!"
+    "text": "This website aims to be way to track progress and reinforce learning as i go\n🔗 Logbook — Casual notes, ideas, and progress from daily work and study\n🔗 Blog — Occasional deeper dives into tools, projects, or topics I’m exploring\n\n\n\nWhat I’m Working On\n\nLearning Bulk RNA-seq and eventually single-cell RNA-seq\nStudying machine learning with Python and scikit-learn\n\nThanks for visiting!"
+  },
+  {
+    "objectID": "blog/2025-06-11_Crispr.html",
+    "href": "blog/2025-06-11_Crispr.html",
+    "title": "Engineering to improve the precision and flexibility of crispr editing",
+    "section": "",
+    "text": "This log summarizes key insights from the webinar The Future of CRISPR, hosted by The Scientist in June 2025.\nWatch the webinar\nIn this blog im going talk about Ben Kleinstivers contribution as it is the most interesting to me."
+  },
+  {
+    "objectID": "blog/2025-06-11_Crispr.html#about",
+    "href": "blog/2025-06-11_Crispr.html#about",
+    "title": "Engineering to improve the precision and flexibility of crispr editing",
+    "section": "",
+    "text": "This log summarizes key insights from the webinar The Future of CRISPR, hosted by The Scientist in June 2025.\nWatch the webinar\nIn this blog im going talk about Ben Kleinstivers contribution as it is the most interesting to me."
+  },
+  {
+    "objectID": "blog/2025-06-11_Crispr.html#background",
+    "href": "blog/2025-06-11_Crispr.html#background",
+    "title": "Engineering to improve the precision and flexibility of crispr editing",
+    "section": "Background",
+    "text": "Background\n\nCas9 is bacteria’s adaptive defense against Bacteriophages and cleaves invading DNA strands\nCas9 can only bind and cut DNA at sites adjacent to a PAM sequence.\nWild-type enzymes are naturally occurring enzymes"
+  },
+  {
+    "objectID": "blog/2025-06-11_Crispr.html#what-they-created-httpspammla.streamlit.app",
+    "href": "blog/2025-06-11_Crispr.html#what-they-created-httpspammla.streamlit.app",
+    "title": "Engineering to improve the precision and flexibility of crispr editing",
+    "section": "What they created https://pammla.streamlit.app/",
+    "text": "What they created https://pammla.streamlit.app/\n\nPAMmlla is a ML tool that predicts which Cas9 variant is optimal for that sequence’s PAM recognition to minimize off target activation.\nThey trained PAMmla on a library of cas9 proteins with 6 altered proteins. Expressed them in bacteria and created a selective pressure that required a specific SpCas9 against 1 of 16 different PAMS\nThey then Sequenced the specific domains, And expressed its biological activity against each AA sequence.\nThis was the data that PAMmla was trained on."
+  },
+  {
+    "objectID": "blog/2025-06-11_Crispr.html#significance",
+    "href": "blog/2025-06-11_Crispr.html#significance",
+    "title": "Engineering to improve the precision and flexibility of crispr editing",
+    "section": "Significance",
+    "text": "Significance\n\nPAMla has enabled gene editing into previously inaccessible regions of the genome, and reduces trial-and-error in therapeutic development."
+  },
+  {
+    "objectID": "blog/2025-06-11_Crispr.html#questions",
+    "href": "blog/2025-06-11_Crispr.html#questions",
+    "title": "Engineering to improve the precision and flexibility of crispr editing",
+    "section": "Questions",
+    "text": "Questions\n\nI wonder if this technology could be used within oncology on multiple gene targets to design combinatorial editing strategies."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "100days/index.html",
+    "href": "100days/index.html",
+    "title": "100 Days of Code",
+    "section": "",
+    "text": "This section is part journal, part learning log. I’m using the #100DaysOfCode challenge to build consistent coding habits and sharpen my skills. Each entry will either be a quick write-up of what I’ve coded that day, or a summary of something I’ve read or practiced all with a focus on clean, professional documentation. Whether it’s a new project, debugging insight, or notes from a tutorial, this log is about steady progress and reflection."
+  },
+  {
+    "objectID": "100days/index.html#description",
+    "href": "100days/index.html#description",
+    "title": "100 Days of Code",
+    "section": "",
+    "text": "This section is part journal, part learning log. I’m using the #100DaysOfCode challenge to build consistent coding habits and sharpen my skills. Each entry will either be a quick write-up of what I’ve coded that day, or a summary of something I’ve read or practiced all with a focus on clean, professional documentation. Whether it’s a new project, debugging insight, or notes from a tutorial, this log is about steady progress and reflection."
+  },
+  {
+    "objectID": "100days/index.html#recent-posts",
+    "href": "100days/index.html#recent-posts",
+    "title": "100 Days of Code",
+    "section": "📚 Recent Posts",
+    "text": "📚 Recent Posts\n\n2025-07-17 — Day 1"
   },
   {
     "objectID": "blog/2025-05-23_AI in Life Sciences.html",
@@ -56,25 +126,25 @@
     "text": "📘 Changes for future adoption\n\nTransparency is important for scientists to adopt and understand AI tools — they need to know how and what models were trained with.\nTools need to be built with their actual users in mind — typically, biologists."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
-    "title": "🧠 Blog",
+    "title": "Blog",
     "section": "",
-    "text": "A collection of occasional deep dives into the tools, topics, and techniques I’m exploring in bioinformatics, cancer research, and AI.\n\n\n\n\n2025-05-22 — How AI is Changing Life Science Research"
+    "text": "A collection of occasional deep dives into the tools, topics, and techniques I’m exploring in bioinformatics, cancer research, and AI."
+  },
+  {
+    "objectID": "blog/index.html#what-i-will-blog",
+    "href": "blog/index.html#what-i-will-blog",
+    "title": "Blog",
+    "section": "",
+    "text": "A collection of occasional deep dives into the tools, topics, and techniques I’m exploring in bioinformatics, cancer research, and AI."
   },
   {
     "objectID": "blog/index.html#recent-posts",
     "href": "blog/index.html#recent-posts",
-    "title": "🧠 Blog",
-    "section": "",
-    "text": "2025-05-22 — How AI is Changing Life Science Research"
+    "title": "Blog",
+    "section": "📚 Recent Posts",
+    "text": "📚 Recent Posts\n\n2025-05-22 — How AI is Changing Life Science Research\n2025-06-11 — Engineering to improve the precision and flexibility of crispr editing"
   },
   {
     "objectID": "log/2025-05-23_prostate-limma.html",

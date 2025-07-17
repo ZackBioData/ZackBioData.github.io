@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="dcterms.date" content="2025-06-11">
 
-<title>Zack’s’ Bioinformatics</title>
+<title>Engineering to improve the precision and flexibility of crispr editing – Zack’s’ Bioinformatics</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +24,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-dfb324f25d9b1687192fa8be62ac8f9c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-dfb324f25d9b1687192fa8be62ac8f9c.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -78,7 +79,7 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../index.html">
     <span class="navbar-title">Zack’s’ Bioinformatics</span>
     </a>
   </div>
@@ -89,19 +90,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./log/index.html"> 
+    <a class="nav-link" href="../log/index.html"> 
 <span class="menu-text">Logbook</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./blog/index.html"> 
+    <a class="nav-link" href="../blog/index.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./100days/index.html"> 
+    <a class="nav-link" href="../100days/index.html"> 
 <span class="menu-text">100 Days of code</span></a>
   </li>  
 </ul>
@@ -120,30 +121,76 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#this-website-aims-to-be-way-to-track-progress-and-reinforce-learning-as-i-go" id="toc-this-website-aims-to-be-way-to-track-progress-and-reinforce-learning-as-i-go" class="nav-link active" data-scroll-target="#this-website-aims-to-be-way-to-track-progress-and-reinforce-learning-as-i-go">This website aims to be way to track progress and reinforce learning as i go</a></li>
-  <li><a href="#what-im-working-on" id="toc-what-im-working-on" class="nav-link" data-scroll-target="#what-im-working-on">What I’m Working On</a></li>
+  <li><a href="#about" id="toc-about" class="nav-link active" data-scroll-target="#about">About</a></li>
+  <li><a href="#background" id="toc-background" class="nav-link" data-scroll-target="#background">Background</a></li>
+  <li><a href="#what-they-created-httpspammla.streamlit.app" id="toc-what-they-created-httpspammla.streamlit.app" class="nav-link" data-scroll-target="#what-they-created-httpspammla.streamlit.app">What they created https://pammla.streamlit.app/</a></li>
+  <li><a href="#significance" id="toc-significance" class="nav-link" data-scroll-target="#significance">Significance</a></li>
+  <li><a href="#questions" id="toc-questions" class="nav-link" data-scroll-target="#questions">Questions</a></li>
   </ul>
 </nav>
     </div>
 <!-- main -->
-<main class="content" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Engineering to improve the precision and flexibility of crispr editing</h1>
+</div>
 
 
 
+<div class="quarto-title-meta">
 
-<section id="this-website-aims-to-be-way-to-track-progress-and-reinforce-learning-as-i-go" class="level1">
-<h1>This website aims to be way to track progress and reinforce learning as i go</h1>
-<p>🔗 <strong><a href="./log/index.html">Logbook</a></strong> — Casual notes, ideas, and progress from daily work and study<br>
-🔗 <strong><a href="./blog/index.html">Blog</a></strong> — Occasional deeper dives into tools, projects, or topics I’m exploring</p>
-<hr>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">June 11, 2025</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="about" class="level2">
+<h2 class="anchored" data-anchor-id="about">About</h2>
+<p>This log summarizes key insights from the webinar <em>The Future of CRISPR</em>, hosted by <strong>The Scientist</strong> in June 2025.<br>
+<a href="https://www.bigmarker.com/labx-media-group/the-future-of-crispr?bmid=25a878c55316&amp;bmid_type=member&amp;bmid=25a878c55316">Watch the webinar</a><br>
+In this blog im going talk about Ben Kleinstivers contribution as it is the most interesting to me.</p>
 </section>
-<section id="what-im-working-on" class="level1">
-<h1>What I’m Working On</h1>
+<section id="background" class="level2">
+<h2 class="anchored" data-anchor-id="background">Background</h2>
 <ul>
-<li>Learning Bulk RNA-seq and eventually single-cell RNA-seq</li>
-<li>Studying machine learning with Python and scikit-learn</li>
+<li>Cas9 is bacteria’s adaptive defense against Bacteriophages and cleaves invading DNA strands</li>
+<li>Cas9 can only bind and cut DNA at sites adjacent to a PAM sequence.</li>
+<li>Wild-type enzymes are naturally occurring enzymes</li>
 </ul>
-<p>Thanks for visiting!</p>
+</section>
+<section id="what-they-created-httpspammla.streamlit.app" class="level2">
+<h2 class="anchored" data-anchor-id="what-they-created-httpspammla.streamlit.app">What they created https://pammla.streamlit.app/</h2>
+<ul>
+<li>PAMmlla is a ML tool that predicts which Cas9 variant is optimal for that sequence’s PAM recognition to minimize off target activation.</li>
+<li>They trained PAMmla on a library of cas9 proteins with 6 altered proteins. Expressed them in bacteria and created a selective pressure that required a specific SpCas9 against 1 of 16 different PAMS</li>
+<li>They then Sequenced the specific domains, And expressed its biological activity against each AA sequence.</li>
+<li>This was the data that PAMmla was trained on.</li>
+</ul>
+</section>
+<section id="significance" class="level2">
+<h2 class="anchored" data-anchor-id="significance">Significance</h2>
+<ul>
+<li>PAMla has enabled gene editing into previously inaccessible regions of the genome, and reduces trial-and-error in therapeutic development.</li>
+</ul>
+</section>
+<section id="questions" class="level2">
+<h2 class="anchored" data-anchor-id="questions">Questions</h2>
+<ul>
+<li>I wonder if this technology could be used within oncology on multiple gene targets to design <strong>combinatorial editing strategies</strong>.</li>
+</ul>
 
 
 </section>
